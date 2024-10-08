@@ -8,7 +8,7 @@
 # BMI = weight / (square of height)
 
 weight = int(input())
-height = float(input())
+height = float(input()) # in meters
 
 BMI = weight / (height * height)
 print(round(BMI,2))
