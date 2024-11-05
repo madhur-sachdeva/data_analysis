@@ -67,10 +67,10 @@
 # age 32
 
 
-f = input("first name : ")
-l = input("last name : ")
-# a = input()
-c = input("company name : ")
+# f = input("first name : ")
+# l = input("last name : ")
+# # a = input()
+# c = input("company name : ")
 
 # print(f"first name : {f.capitalize()}\nlast name : {l.capitalize()}\nage {a}")
 # print("Display: My name is", f.capitalize(), l.capitalize(), "and I am", a, "years old.")
