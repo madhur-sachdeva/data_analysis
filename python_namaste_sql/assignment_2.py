@@ -32,3 +32,19 @@
 # print(ipl)
 # print(ipl[0][0:2].lower())
 
+
+# another method to create a string
+
+# ipl = "CSK,MI,RCB,LSG"
+# ipl_list = ipl.split(',')
+# print(ipl_list)
+
+# method 3
+# method_3 = list('abc')
+# print(method_3)
+
+list_oprtns = [1,2,3,4,5,8]
+print(sum(list_oprtns))
+print(len(list_oprtns))
+print(max(list_oprtns))
+print(min(list_oprtns))
